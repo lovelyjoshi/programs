@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {    
+    //sum of two numbers
+    
     int a,b;
     cout<<"Enter first number ";
     cin>>a;
